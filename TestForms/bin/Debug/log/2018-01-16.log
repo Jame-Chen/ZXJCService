@@ -1,0 +1,13 @@
+2018-01-16 10:08:25,290 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:08:49,194 [11] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:08:49,291 [11] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:08:49,292 [11] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:12:29,245 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:12:29,285 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:12:29,289 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:12:46,271 [14] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devicegroups/2db3acd7-2d49-41a9-bd70-b534fbeb1fc7,时间：2018/1/16 10:12:46，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2018-01-16 10:16:13,739 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:16:13,798 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:16:13,798 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-01-16 10:16:32,591 [14] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devicegroups/f5ceaac0-e752-4df4-b1e5-bf5f33ed0311,时间：2018/1/16 10:16:32，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname

@@ -1,0 +1,10 @@
+2018-04-03 09:48:21,735 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-04-03 09:48:21,788 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-04-03 09:48:34,057 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/BZ20170921161433200170023_L4/assignment?includeAsset=false&includeDevice=false&includeSite=false,时间：2018/4/3 9:48:33，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2018-04-03 10:00:00,492 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-04-03 10:00:00,546 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-04-03 10:00:00,550 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-04-03 10:42:23,587 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-04-03 10:42:23,637 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-04-03 10:42:23,642 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname

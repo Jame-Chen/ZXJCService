@@ -1,0 +1,382 @@
+2017-12-11 15:25:00,974 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:25:01,045 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:25:01,046 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:25:07,763 [13] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:25:07
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:25:37,011 [14] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:25:35
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:25:37,036 [15] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:25:36
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:27:38,220 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:27:38,282 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:27:38,282 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:27:38,362 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:27:38
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:28:52,649 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:28:52,656 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:28:52,660 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:28:52,660 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:28:52
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:30:39,977 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:30:39,987 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:30:39,990 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:30:39,990 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:30:39
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:32:51,270 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:32:51,282 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:32:51,285 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:32:51,285 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:32:51
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:35:47,261 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:35:47,305 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:35:47,305 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:35:47,391 [10] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:35:47
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:36:01,467 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/tenants/zxjc，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 15:36:18,130 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/tenants，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 15:37:13,294 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:37:13,362 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:37:13,362 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:37:13,455 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:37:13
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:37:17,624 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/tenants/zxjc，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 15:41:25,013 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:41:25,052 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:41:25,055 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:41:25,136 [9] INFO  WcfServiceZXJC.ZXJCJob - 租户同步,时间：2017/12/11 15:41:25
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:41:30,957 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/tenants/zxjc，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 15:46:48,591 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:46:48,633 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:46:48,633 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:46:50,994 [8] INFO  WcfServiceZXJC.ZXJCJob - 站点同步,时间：2017/12/11 15:46:50
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:47:02,974 [8] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D021FE8DDF1546F78691AE1EBBB61FFA，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:53:11,804 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:53:11,847 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:53:11,847 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:53:14,648 [10] INFO  WcfServiceZXJC.ZXJCJob - 站点同步,时间：2017/12/11 15:53:14
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:53:20,471 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D021FE8DDF1546F78691AE1EBBB61FFA，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:06,702 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/A94DB69EBB80421AA3EEAB5050EC9783，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:06,907 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D10A6CDD7B654258B452E410A36DFBA1，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:07,123 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/6563362CBAFB43F2956A992F2649F49B，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:07,329 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/1A4B7604403E4AFA9A5E7B4E94AF88D7，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:07,509 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/A996159464624D55927EEA95D59C7641，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:07,711 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/A17A8188981A4A718CBB79786471A1CC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:07,901 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/66AE1AA4DE454DE2BB69EDF2DD670A8B，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:08,083 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/EAA685F491B64A8F905C739FA903968D，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:08,283 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/3332BC4D0DEB4C3591B823542C4125AD，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:08,484 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/473494392BC74D00BF21111D0A4C7F40，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:08,654 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/9921041BDED147C9846B521012E33103，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:08,833 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/904D51183B0E44BC856BD844B61E79ED，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:09,021 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/C70615D17ACB4F1998E2AFD30DCA253C，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:09,216 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/A5E4ABCF84374D2AA221369F19493FEC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:15,066 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/6C7CCF61EEE54019B3AA85F281F85A02，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:54:15,267 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/74FE55F10E9B41EDBE75F61E9C2970D1，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 15:55:58,141 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:55:58,158 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:55:58,158 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 15:56:00,466 [10] INFO  WcfServiceZXJC.ZXJCJob - 站点同步,时间：2017/12/11 15:56:00
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:02:03,584 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:02:03,624 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:02:03,624 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:02:05,752 [9] INFO  WcfServiceZXJC.ZXJCJob - 站点同步,时间：2017/12/11 16:02:05
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:02:16,350 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/5C751DCA8A2B4027BEE76A3822E27676，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:25,157 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/1016A00E78C54DF1A1C4576028B28FF9，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:25,344 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D3246CA3C332468A825D703ADAA23E66，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:25,626 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/F233B81DFA3048958A48DB6AA9018DC2，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:25,861 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D845940267C64226B8F3138FD28552F7，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:26,207 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/F260F2C6BA8341449255C7667E8040DD，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:26,429 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/364C536CF9764EF282F4D5E384092861，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:26,678 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/6DF79EAD155C4C0C9FDCFA8C257F67D5，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:26,910 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/D2542295A437460CB03C39EBD60129C0，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:27,292 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/994D672A70B0490588983A7230910A36，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:27,570 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/7E98168EE0EC42E4997EA62EC2CAA4D0，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:27,813 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/9ECB7933C37B49688BF5AF04D68A68C7，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:28,089 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/CDC3FB0192EF4188A9CB45DEB66574A9，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:28,444 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/6C6D14C007C04CD0B7E2AFAD12DE5E22，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:28,648 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/0534CC40C3EB4B0088D51441FD664656，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:28,875 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/8C18785EB74D43AFA38FB533F6400BE5，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:02:29,059 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/sites/C6BEE3EF26544B1EBAEB1AB9400A6361，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:03:26,256 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:03:26,297 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:03:26,297 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:03:28,259 [8] INFO  WcfServiceZXJC.ZXJCJob - 资产类别同步,时间：2017/12/11 16:03:28
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:05:27,830 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:05:27,873 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:05:27,873 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:05:29,278 [8] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:05:29
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:06:34,440 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:06:34,481 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:06:34,484 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:06:35,835 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:06:35
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:08:01,619 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/Specification/hardware，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 16:17:25,287 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:17:25,326 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:17:25,328 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:17:28,355 [10] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:17:28
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:18:40,878 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/Specification/hardware，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 16:19:46,691 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:19:46,732 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:19:46,732 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:19:49,192 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:19:49
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:20:34,365 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/Specification/hardware，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 16:22:50,027 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:22:50,069 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:22:50,069 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:22:52,644 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:22:52
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:23:06,945 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/Specification/hardware，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 16:23:19,306 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:23:19,347 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:23:19,350 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:23:21,257 [10] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:23:21
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:25:54,574 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:25:54,613 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:25:54,614 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:25:57,395 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:25:57
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:26:08,840 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/Specification/hardware，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 16:26:34,250 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:26:34,303 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:26:34,303 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:26:35,852 [10] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:26:35
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:27:18,847 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:27:18,891 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:27:18,891 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:27:20,617 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:27:20
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:28:07,749 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:28:07,791 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:28:07,794 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:28:10,210 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:28:10
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:28:18,599 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/4F4AC44176F34020AE6F53A78AD2A728，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:34:50,411 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:34:50,454 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:34:50,455 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:34:52,058 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:34:51
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:34:52,472 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/4F4AC44176F34020AE6F53A78AD2A728，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:35:07,888 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:07,933 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:07,936 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:09,543 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:35:09
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:50,051 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:50,085 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:50,087 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:52,764 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:35:52
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:35:58,850 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/4F4AC44176F34020AE6F53A78AD2A728，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:37:38,455 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:37:38,506 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:37:38,510 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:37:40,200 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:37:40
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:37:45,816 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/4F4AC44176F34020AE6F53A78AD2A728，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:16,132 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:39:16,175 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:39:16,178 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:39:18,393 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:39:18
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:39:21,302 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/4F4AC44176F34020AE6F53A78AD2A728，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:28,437 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/B770C65226AF43ACBF17ABE56028CAC7，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:28,650 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/50C22D2D41B2449CB5DA377FA969F04F，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:28,830 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/EFA84CB143034FB9BBE790D710434BB7，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:29,048 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/53ADFAD283504E30933731F2B0B04207，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:29,260 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87742B9597CC42DCBFB1A97A47933319，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:29,530 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/D0948DE3F9984DD185E86A2BCDDC2BF2，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:29,707 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:39:29,818 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:40:09,146 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:40:09,189 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:40:09,191 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:40:11,059 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:40:10
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:40:16,057 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:40:46,618 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:41:06,412 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:41:06,451 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:41:06,451 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:41:08,892 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:41:08
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:41:12,069 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:42:19,970 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:44:49,778 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:44:49,823 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:44:49,828 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:44:51,856 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:44:51
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:44:52,439 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:44:52,808 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:45:16,020 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:45:16,059 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:45:16,060 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:45:18,366 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:45:18
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:45:27,115 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:45:50,655 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:46:34,753 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:46:34,793 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:46:34,794 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:46:36,150 [8] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:46:36
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:46:44,351 [8] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:46:49,316 [8] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:48:19,685 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:19,728 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:19,731 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:21,749 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:48:21
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:29,797 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:48:30,128 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:48:52,409 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:52,448 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:52,452 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:48:53,880 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:48:53
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:49:04,326 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:49:11,228 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:49:26,207 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:49:26,255 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:49:26,256 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:49:27,739 [10] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:49:27
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:49:38,521 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:50:07,108 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:52:37,130 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:37,170 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:37,173 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:39,327 [9] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:52:39
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:40,303 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/DrainPump/hardware，详细信息：远程服务器返回错误: (405) 不允许的方法。
+ WcfServiceZXJC.GetPostname2017-12-11 16:52:56,677 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:56,728 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:56,729 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:52:58,688 [10] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:52:58
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:53:26,003 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/assets/categories/DrainPump/hardware，详细信息：远程服务器返回错误: (405) 不允许的方法。
+ WcfServiceZXJC.GetPostname2017-12-11 16:54:00,380 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:54:00,427 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:54:00,427 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:54:03,288 [10] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:54:03
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:56:41,126 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:56:41,168 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:56:41,172 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:56:42,651 [8] INFO  WcfServiceZXJC.ZXJCJob - 资产同步,时间：2017/12/11 16:56:42
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:58:16,201 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:58:16,248 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:58:16,251 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:58:18,549 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 16:58:18
+ WcfServiceZXJC.ZXJCJobname2017-12-11 16:58:29,952 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/87B603ECE8454ABE8C6E327F4590D1DC，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 16:59:04,851 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/specifications/FF532FF3E79246528167F31C558C343A，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname2017-12-11 17:00:02,905 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:00:02,915 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:00:02,917 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:00:04,677 [9] INFO  WcfServiceZXJC.ZXJCJob - 规格同步,时间：2017/12/11 17:00:04
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:02:29,627 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:02:29,671 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:02:29,671 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:02:32,199 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:02:32
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:10,807 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:10,851 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:10,851 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:13,309 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:03:13
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:26,451 [10] ERROR WcfServiceZXJC.GetPost - 出错啦:http://localhost:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 17:03:55,111 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:55,156 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:55,156 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:03:58,292 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:03:58
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:05:34,951 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:05:34,995 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:05:34,995 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:05:37,548 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:05:37
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:15:44,945 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:15:44,984 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:15:44,984 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:15:47,682 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:15:47
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:25:40,819 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:25:40,869 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:25:40,873 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:25:43,666 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:25:43
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:26:40,769 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:26:40,816 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:26:40,817 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:26:43,191 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:26:43
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:27:08,744 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:27:08,790 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:27:08,793 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:27:11,384 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:27:11
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:28:46,250 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:28:46,303 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:28:46,306 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:28:47,915 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:28:47
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:35,421 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:35,477 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:35,477 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:37,245 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:34:37
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:51,880 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:51,924 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:51,927 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:34:53,327 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:34:53
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:36:29,373 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:36:29,414 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:36:29,416 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:36:31,043 [8] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:36:30
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:39:17,500 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:39:17,541 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:39:17,541 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:39:19,425 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:39:19
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:44:55,740 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:44:55,785 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:44:55,786 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:44:58,637 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:44:58
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:48:52,873 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:48:52,911 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:48:52,913 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:48:54,996 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:48:54
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:55:42,821 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:55:42,867 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:55:42,870 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 17:55:44,325 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 17:55:44
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:03:25,671 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:03:25,713 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:03:25,717 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:03:28,186 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:03:28
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:04:43,387 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:04:43,432 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:04:43,435 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:04:45,128 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:04:45
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:07:03,335 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:07:03,378 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:07:03,382 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:07:04,652 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:07:04
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:13:49,826 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:13:50,079 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:13:50,079 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:14:03,674 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:14:03
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:16:06,684 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:16:06,730 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:16:06,731 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:16:09,172 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:16:09
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:16:34,492 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://101.200.182.154:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 18:17:08,203 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:17:08,249 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:17:08,249 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:19:42,015 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:19:41
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:22:46,015 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:22:46,063 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:22:46,067 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:22:48,284 [8] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:22:48
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:23:09,547 [8] ERROR WcfServiceZXJC.GetPost - 出错啦:http://101.200.182.154:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 18:23:22,326 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:23:22,373 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:23:22,377 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:23:25,509 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:23:25
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:25:20,897 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:25:20,941 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:25:20,944 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:25:22,687 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:25:22
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:26:37,594 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://101.200.182.154:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 18:26:48,511 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:26:48,549 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:26:48,552 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:26:51,561 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:26:51
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:30:41,764 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:30:41,810 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:30:41,810 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:30:44,564 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:30:44
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:32:43,468 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:32:43,515 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:32:43,517 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:32:46,237 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:32:46
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:33:38,036 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:33:38,086 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:33:38,091 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:33:41,153 [10] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:33:41
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:36:33,158 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:36:33,204 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:36:33,208 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:36:41,686 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:36:41
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:38:50,043 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://101.200.182.154:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2017-12-11 18:39:34,592 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:39:34,633 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:39:34,635 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:39:36,944 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:39:36
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:41:19,577 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:41:19,622 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:41:19,625 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:41:21,350 [9] INFO  WcfServiceZXJC.ZXJCJob - 设备同步,时间：2017/12/11 18:41:21
+ WcfServiceZXJC.ZXJCJobname2017-12-11 18:41:26,049 [9] ERROR WcfServiceZXJC.GetPost - 出错啦:http://101.200.182.154:8080/sitewhere/api/devices/010701001_L1，详细信息：远程服务器返回错误: (404) 未找到。
+ WcfServiceZXJC.GetPostname

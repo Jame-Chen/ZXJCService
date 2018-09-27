@@ -1,0 +1,5 @@
+2018-06-15 10:09:58,088 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-06-15 10:09:58,147 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-06-15 10:09:58,148 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-06-15 10:10:40,199 [6] ERROR WcfServiceZXJC.GetPost - 出错啦:http://192.168.180.227:8093/sitewhere/api/devices/04030310804608002_L1,时间：2018/6/15 10:10:40，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname

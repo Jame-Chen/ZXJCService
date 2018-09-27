@@ -1,0 +1,17 @@
+2018-09-11 16:24:59,753 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:05,999 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:15,938 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:22,272 [12] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/XLJ2015060124_L1,时间：2018/9/11 16:25:22，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2018-09-11 16:25:22,733 [12] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/,时间：2018/9/11 16:25:22，详细信息：远程服务器返回错误: (409) 冲突。
+ WcfServiceZXJC.GetPostname2018-09-11 16:25:22,754 [12] ERROR WcfServiceZXJC.ZXJCJob - DeviceSynchronize异常:远程服务器返回错误: (409) 冲突。
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:27,120 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:32,872 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:45,615 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:48,959 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:48,973 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:25:48,975 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:27:01,005 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:27:05,207 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:27:05,217 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-11 16:27:36,746 [14] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/XLJ2015060124_L1,时间：2018/9/11 16:27:36，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname

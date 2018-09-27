@@ -1,0 +1,46 @@
+2018-09-25 14:58:37,492 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 14:58:43,835 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 14:58:56,761 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:18:11,600 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:18:11,642 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:18:11,644 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:22:41,233 [16] ERROR WcfServiceZXJC.ZXJCJob - DeviceSynchronize异常:对象名 'GetTag' 无效。
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:22:44,222 [14] ERROR WcfServiceZXJC.ZXJCJob - HardwareAssetSynchronize异常:列名 'N_FXTCSW' 无效。
+列名 'N_FXKCSW' 无效。
+列名 'N_JYTCSW' 无效。
+列名 'N_JYKCSW' 无效。
+列名 'N_JLJYKCSW' 无效。
+列名 'N_JLJYTCSW' 无效。
+列名 'N_JLHLKCSW' 无效。
+列名 'N_JLHLTCSW' 无效。
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:23:56,842 [17] ERROR WcfServiceZXJC.ZXJCJob - HardwareAssetSynchronize异常:列名 'N_FXTCSW' 无效。
+列名 'N_FXKCSW' 无效。
+列名 'N_JYTCSW' 无效。
+列名 'N_JYKCSW' 无效。
+列名 'N_JLJYKCSW' 无效。
+列名 'N_JLJYTCSW' 无效。
+列名 'N_JLHLKCSW' 无效。
+列名 'N_JLHLTCSW' 无效。
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:24:41,419 [22] ERROR WcfServiceZXJC.ZXJCJob - HardwareAssetSynchronize异常:列名 'N_FXTCSW' 无效。
+列名 'N_FXKCSW' 无效。
+列名 'N_JYTCSW' 无效。
+列名 'N_JYKCSW' 无效。
+列名 'N_JLJYKCSW' 无效。
+列名 'N_JLJYTCSW' 无效。
+列名 'N_JLHLKCSW' 无效。
+列名 'N_JLHLTCSW' 无效。
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:31:03,729 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:31:03,775 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:31:03,785 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:33:30,897 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:33:30,947 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:33:30,949 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:38:35,979 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:38:36,024 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:41:14,690 [8] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:41:48,278 [8] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:41:48,315 [8] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:57:38,270 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:57:38,325 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-09-25 15:58:37,851 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname

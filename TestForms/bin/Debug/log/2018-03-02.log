@@ -1,0 +1,9 @@
+2018-03-02 11:05:30,710 [9] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:05:30,788 [9] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:05:30,788 [9] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:07:29,692 [10] INFO  WcfServiceZXJC.ZXJCJob - 开始
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:07:29,738 [10] INFO  WcfServiceZXJC.ZXJCJob - --------START---------
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:07:29,738 [10] INFO  WcfServiceZXJC.ZXJCJob - --------END---------
+ WcfServiceZXJC.ZXJCJobname2018-03-02 11:07:56,937 [6] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/010701001_L1,时间：2018/3/2 11:07:56，详细信息：远程服务器返回错误: (400) 错误的请求。
+ WcfServiceZXJC.GetPostname2018-03-02 11:08:05,845 [6] ERROR WcfServiceZXJC.GetPost - 出错啦:http://172.18.1.221:8080/sitewhere/api/devices/,时间：2018/3/2 11:08:05，详细信息：远程服务器返回错误: (409) 冲突。
+ WcfServiceZXJC.GetPostname

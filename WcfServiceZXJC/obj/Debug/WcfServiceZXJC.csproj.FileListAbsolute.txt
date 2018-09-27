@@ -1,0 +1,13 @@
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\WcfServiceZXJC.dll.config
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\WcfServiceZXJC.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\WcfServiceZXJC.pdb
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\DBUtility.MongoDB.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\log4net.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\MongoDB.Bson.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\MongoDB.Driver.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\Newtonsoft.Json.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\DBUtility.MongoDB.xml
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\log4net.xml
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\bin\Newtonsoft.Json.xml
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\obj\Debug\WcfServiceZXJC.dll
+E:\实时监测\在线监测同步程序\ZXJCService\WcfServiceZXJC\obj\Debug\WcfServiceZXJC.pdb
